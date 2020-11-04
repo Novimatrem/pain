@@ -1,0 +1,91 @@
+(w10-painkiller.txt)
+if worst comes to worst, and I must, this is what I do to make it slightly more bareable.
+
+i'll add more to this over time, as i find them out, to combat their anti-user design methodology, and all that they do wrong.
+-
+
+Use a local-only account, NOT a microsoft account, if at all possible.
+
+Enable all the developer mode usability tweaks, and the mode that lets you install what you want to.
+
+Disable and delete the diagtrack service.
+
+Disable and delete the dmwappushsvc (dmwappushservice) service.
+
+Install the Chocolatey package manager.
+
+Get 'winget' package manager installed and ready to go.
+
+Get WSL (Windows Subsystem for Linux) installed and ready to go.
+
+Install the 'Windows Terminal'.
+
+Hide Cornata from the taskbar.
+
+Get a lot of your applications all at once, easily, from 'Ninite'.
+
+Install 7-zip.
+
+Install the K-Lite Codec Pack.
+
+Install mbam (Malwarebytes Anti-Malware)
+
+Install Unchecky.
+
+Install CCleaner.
+
+Install & use the MVPS HOSTS file.
+
+Install Launchy.
+
+Install and use 'O&O ShutUp10'.
+
+Make a shortcut to the "godmode" "control panel" folder.
+
+Install right-click Windows 10 take-ownership tweak.
+
+Install and use PC Decrapifier.
+
+Be sure to look at and adjust all of the Privacy menu settings in the modern PC settings app.
+
+Install and use Ultimate Windows Tweaker.
+
+
+Stop apps (and ads) that you don't want from automatically installing on your machine. 
+Step 1: https://windowsloop.com/stop-windows-10-from-installing-suggested-apps/
+Step 2: https://winaero.com/stop-windows-10-anniversary-update-from-installing-candy-crush-and-other-unwanted-apps/
+
+
+Stop most Windows 10 ads: https://www.howtogeek.com/269331/how-to-disable-all-of-windows-10s-built-in-advertising/
+
+Install and use 'Do Not Spy 10'.
+
+Enable bitlocker disk encryption.
+
+Be sure windows defender is ON.
+
+Keep the system up to date.
+
+Backup early, backup often.
+
+Search for commands online to fully delete all the Windows 10 AppX packages that you will never use.
+
+Disable cortana.
+
+Disable & uninstall OneDrive.
+
+Pin powershell to the taskbar.
+
+Pin Windows Terminal to the taskbar.
+
+Disable the sticky keys keyboard shortcut.
+
+Set the level of UAC to one peg above disabled.
+
+
+Be sure to look at and overview EVERYTHING on the system, all apps, all settings, etc, to be sure it's as you wish for it to be.
+
+That's all. Use Linux in all situations you can, please.
+
+-
+
