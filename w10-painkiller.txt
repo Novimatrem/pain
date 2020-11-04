@@ -89,6 +89,8 @@ Disable the sticky keys keyboard shortcut.
 
 Set the level of UAC to one peg above disabled.
 
+To get window button controls (close, min, max) on the left, rather than right, install and always run "LeftSider", to get that in Windows.
+
 
 Be sure to look at and overview EVERYTHING on the system, all apps, all settings, etc, to be sure it's as you wish for it to be.
 
