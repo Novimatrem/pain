@@ -2,6 +2,8 @@
 if worst comes to worst, and I must, this is what I do to make it slightly more bareable.
 
 i'll add more to this over time, as i find them out, to combat their anti-user design methodology, and all that they do wrong.
+
+if you don't want to do every step on this list, though you should, AT LEAST try out O&O ShutUp10, and the Ultimate Windows Tweaker, please.
 -
 
 Use a local-only account, NOT a microsoft account, if at all possible.
