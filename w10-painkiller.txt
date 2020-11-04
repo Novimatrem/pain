@@ -76,6 +76,8 @@ Disable & uninstall OneDrive.
 
 Pin powershell to the taskbar.
 
+Disable mouse acceleration in mouse.cpl by UN-ticking the box mistakenly labelled "Enhance pointer precision".
+
 Pin Windows Terminal to the taskbar.
 
 Disable the sticky keys keyboard shortcut.
