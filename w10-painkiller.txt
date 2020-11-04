@@ -60,7 +60,8 @@ Install and use Ultimate Windows Tweaker.
 Stop apps (and ads) that you don't want from automatically installing on your machine. 
 Step 1: https://windowsloop.com/stop-windows-10-from-installing-suggested-apps/
 Step 2: https://winaero.com/stop-windows-10-anniversary-update-from-installing-candy-crush-and-other-unwanted-apps/
-
+Step 3: https://winaero.com/fix-windows-10-installs-apps-like-candy-crush-soda-saga-automatically/
+(yes, you have to do all 3 guides)
 
 Stop most Windows 10 ads: https://www.howtogeek.com/269331/how-to-disable-all-of-windows-10s-built-in-advertising/
 
