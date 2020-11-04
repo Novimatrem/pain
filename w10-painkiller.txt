@@ -65,8 +65,6 @@ Step 3: https://winaero.com/fix-windows-10-installs-apps-like-candy-crush-soda-s
 
 Stop most Windows 10 ads: https://www.howtogeek.com/269331/how-to-disable-all-of-windows-10s-built-in-advertising/
 
-Install and use 'Do Not Spy 10'.
-
 Enable bitlocker disk encryption.
 
 Be sure windows defender is ON.
