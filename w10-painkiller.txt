@@ -24,6 +24,8 @@ Hide Cornata from the taskbar.
 
 Get a lot of your applications all at once, easily, from 'Ninite'.
 
+Install free libre open-source software replacements for everything you can, especially to replace as much as what is pre-installed. 
+
 Install 7-zip.
 
 Install the K-Lite Codec Pack.
