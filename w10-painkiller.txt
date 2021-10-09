@@ -118,6 +118,8 @@ You can also find some settings for this by searching for 'dark' (in both settin
 then, in PowerShell x64 as Admin: 
 Set-ItemProperty -Path HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize -Name AppsUseLightTheme -Value 0
 
+Be sure to of course set a desktop wallpaper + lockscreen/login screen image that is also dark.
+
 #
 
 
