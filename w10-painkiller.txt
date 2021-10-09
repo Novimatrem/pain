@@ -119,6 +119,9 @@ then, in PowerShell x64 as Admin:
 Set-ItemProperty -Path HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize -Name AppsUseLightTheme -Value 0
 
 Be sure to of course set a desktop wallpaper + lockscreen/login screen image that is also dark.
+The dark theme/dark mode support Windows provides is very incomplete. Especially in Windows 7. I heavily suggest, that on both Windows 7, and
+Windows 10, that you use a custom Universal Theme Patcher/UxThemePatcher dark theme from DeviantArt, ON TOP OF these above tips, as it will
+ensure that you have as close to 100% coverage as possible. 
 
 #
 
