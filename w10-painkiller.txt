@@ -108,6 +108,18 @@ Set the level of UAC to one peg above disabled.
 
 To get window button controls (close, min, max) on the left, rather than right, install and always run "LeftSider", to get that in Windows.
 
+#
+
+# Dark theme 100%
+Do all you can to enable dark theme/dark mode as thoroughly as possible. 
+(don't go insane and enable the dark 'high contrast' theme, that's too far.)
+
+In PowerShell x64 as Admin: 
+Set-ItemProperty -Path HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize -Name AppsUseLightTheme -Value 0
+
+#
+
+
 
 Be sure to look at and overview EVERYTHING on the system, all apps, all settings, etc, to be sure it's as you wish for it to be.
 
