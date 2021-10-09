@@ -112,7 +112,7 @@ To get window button controls (close, min, max) on the left, rather than right, 
 
 # Dark theme 100%
 Go into the modern PC Settings app and do all you can to enable dark theme/dark mode as thoroughly as possible.
-You can also find some settings for this by searching for 'dark'. 
+You can also find some settings for this by searching for 'dark' (in both settings' search, and the system's).
 (don't go insane and enable the dark 'high contrast' theme, that's too far.)
 
 then, in PowerShell x64 as Admin: 
