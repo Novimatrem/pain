@@ -127,6 +127,8 @@ ensure that you have as close to 100% coverage as possible.
 
 Install and make use of Chocolatey - https://chocolatey.org/
 
+Install Spelunky HD and Spelunky Classic from GOG 
+
 Be sure to look at and overview EVERYTHING on the system, all apps, all settings, etc, to be sure it's as you wish for it to be.
 
 That's all. Use Linux in all situations you can, please.
