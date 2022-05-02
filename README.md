@@ -10,3 +10,5 @@ If you're setting up a Windows PC, for some reason, then;
 
 and then you should be relatively setup.
 
+Ensure you apply a theme that's not one of those awful horrible "modern design" flat theme things, in all aspects you're allowed to customize. 
+
