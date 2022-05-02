@@ -129,6 +129,8 @@ Install and make use of Chocolatey - https://chocolatey.org/
 
 Install Spelunky HD and Spelunky Classic from GOG 
 
+Ensure you apply a theme that's not one of those awful horrible "modern design" flat theme things, in all aspects you're allowed to customize. 
+
 Be sure to look at and overview EVERYTHING on the system, all apps, all settings, etc, to be sure it's as you wish for it to be.
 
 That's all. Use Linux in all situations you can, please.
