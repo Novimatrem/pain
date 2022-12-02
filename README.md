@@ -8,6 +8,8 @@ If you're setting up a Windows PC, for some reason, then;
 
 3: and then go line-by-line through https://gitlab.com/Novimatrem/personal-autosetup-linux-ubuntu/-/blob/master/personal-autosetup-linux-ubuntu-script-run.sh inheriting all you can do on Windows,
 
+4. and then go line-by-line through https://gitlab.com/Novimatrem/fedora-linux-personal-autosetup inheriting all you can do on Windows,
+
 and then you should be relatively setup.
 
 Ensure you apply a theme that's not one of those awful horrible "modern design" flat theme things, in all aspects you're allowed to customize. 
