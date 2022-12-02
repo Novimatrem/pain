@@ -49,6 +49,10 @@ Install free libre open-source software replacements for everything you can, esp
 
 Install Firefox.
 
+Install Notepad++.
+
+Install GIMP.
+
 Install 7-zip.
 
 Install the K-Lite Codec Pack.
@@ -62,6 +66,8 @@ Install CCleaner.
 Install & use the MVPS HOSTS file.
 
 Install Launchy.
+
+Install Dropbox.
 
 Install and use 'O&O ShutUp10'.
 
