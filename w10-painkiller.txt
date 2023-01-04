@@ -29,6 +29,8 @@ Disable and delete the diagtrack service.
 
 Disable and delete the dmwappushsvc (dmwappushservice) service.
 
+Install Open-Shell - Classic Shell Reborn.
+
 Install Microsoft Security Essentials (MajorGeeks)
 
 Install Windows Live Essentials 2012 (MajorGeeks)
