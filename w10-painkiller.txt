@@ -71,6 +71,8 @@ Install Launchy.
 
 Install Dropbox.
 
+Install Free Alarm Clock https://freealarmapp.com/
+
 Install and use 'O&O ShutUp10'.
 
 Make a shortcut to the "godmode" "control panel" folder.
