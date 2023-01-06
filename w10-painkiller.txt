@@ -71,6 +71,8 @@ Install Launchy.
 
 Install Dropbox.
 
+Install and use MSI Dragon Center - go to User Scenario, and enable Extreme Performance.
+
 Install Free Alarm Clock https://freealarmapp.com/
 
 Install and use 'O&O ShutUp10'.
