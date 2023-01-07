@@ -75,6 +75,11 @@ Install and use MSI Dragon Center - go to User Scenario, and enable Extreme Perf
 
 Install Free Alarm Clock https://freealarmapp.com/
 
+Install Borderless Gaming through Steam.
+
+Install MSI Afterburner,
+and its actually useful part RTSS RivaTunerStatisticsServer.
+
 Install and use 'O&O ShutUp10'.
 
 Make a shortcut to the "godmode" "control panel" folder.
