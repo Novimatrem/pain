@@ -80,6 +80,14 @@ Install Borderless Gaming through Steam.
 Install MSI Afterburner,
 and its actually useful part RTSS RivaTunerStatisticsServer.
 
+Install and run Cinebench.
+
+Install and run Unigine Heaven Benchmark.
+
+Install prime95.
+
+Install HWMonitorPro.
+
 Install and use 'O&O ShutUp10'.
 
 Make a shortcut to the "godmode" "control panel" folder.
