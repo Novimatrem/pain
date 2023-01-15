@@ -88,6 +88,8 @@ Install prime95.
 
 Install HWMonitorPro.
 
+Install AdBlock(ers) into your Firefox.
+
 Install and use 'O&O ShutUp10'.
 
 Make a shortcut to the "godmode" "control panel" folder.
