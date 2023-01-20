@@ -23,6 +23,12 @@ if you don't want to do every step on this list, though you should, AT LEAST try
 
 Use a local-only account, NOT a microsoft account, if at all possible.
 
+= Misaligned mouse cursor fix
+Go into the Mouse Properties screen, otherwise known as "Change Mouse Settings".
+Go into the Pointer Options tab, and under 'Visibility' enable "Display Pointer Trails", and then set the Length to the lowest amount.
+This turns your mouse into using Software-rendered mouse mode, which means it fixes the problem, and will now be accurate.
+=
+
 Enable all the developer mode usability tweaks, and the mode that lets you install what you want to.
 
 Disable and delete the diagtrack service.
