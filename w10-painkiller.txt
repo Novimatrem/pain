@@ -10,6 +10,8 @@ If you're setting up a Windows PC, for some reason, then;
 
 4. and then go line-by-line through https://gitlab.com/Novimatrem/fedora-linux-personal-autosetup inheriting all you can do on Windows,
 
+5. After all of that, make sure you have Chocolatey, and run this script in PowerShell, to install a lot of your stuff automatically: https://gitlab.com/-/snippets/2487277
+
 and then you should be relatively setup.
 
 
