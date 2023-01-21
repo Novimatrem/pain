@@ -180,3 +180,5 @@ That's all. Use Linux in all situations you can, please.
 
 -
 
+After all of that, make sure you have Chocolatey, and run this script in PowerShell, to install a lot of your stuff automatically: https://gitlab.com/-/snippets/2487277
+
