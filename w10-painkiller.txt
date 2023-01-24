@@ -172,6 +172,8 @@ Install Spelunky HD and Spelunky Classic from GOG
 
 Install osu!
 
+Download and install the Itch app from https://itch.io/app/download
+
 Ensure you apply a theme that's not one of those awful horrible "modern design" flat theme things, in all aspects you're allowed to customize. 
 
 Be sure to look at and overview EVERYTHING on the system, all apps, all settings, etc, to be sure it's as you wish for it to be.
