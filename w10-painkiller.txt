@@ -178,6 +178,8 @@ Install and enable InControl (by GRC/Gibson Research)
 
 Download and install the Itch app from https://itch.io/app/download
 
+Install DiskInternals Linux Reader so you can use ext4 https://www.diskinternals.com/linux-reader/
+
 Ensure you apply a theme that's not one of those awful horrible "modern design" flat theme things, in all aspects you're allowed to customize. 
 
 Be sure to look at and overview EVERYTHING on the system, all apps, all settings, etc, to be sure it's as you wish for it to be.
