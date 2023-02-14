@@ -176,6 +176,8 @@ Install BYOND
 
 Install NetLimiter
 
+Install XIVLauncher (https://github.com/goatcorp/FFXIVQuickLauncher) [it can limit DL speed so you can DL]
+
 Install and enable InControl (by GRC/Gibson Research)
 
 Download and install the Itch app from https://itch.io/app/download
