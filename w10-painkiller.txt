@@ -174,7 +174,7 @@ Install osu!
 
 Install BYOND
 
-Install NetLimiter
+Install ClamWin Antivirus
 
 Install XIVLauncher (https://github.com/goatcorp/FFXIVQuickLauncher) [it can limit DL speed so you can DL]
 
