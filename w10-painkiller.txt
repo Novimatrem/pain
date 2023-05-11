@@ -190,6 +190,8 @@ Install Python
 
 Install Windows Terminal from the MS Store
 
+Install Shutter Encoder for its cut detection, makes it a lot easier to video-edit your recordings for privacy. (Alt+Tab detection)
+
 Install ReText Markdown Editor (install Python, then install the ReText package using pip in Windows Terminal PowerShell mode)
 
 Ensure you apply a theme that's not one of those awful horrible "modern design" flat theme things, in all aspects you're allowed to customize. 
