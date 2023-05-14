@@ -39,6 +39,8 @@ Disable and delete the dmwappushsvc (dmwappushservice) service.
 
 Install Open-Shell - Classic Shell Reborn.
 
+Install AMD Software: PRO Edition
+
 Install Microsoft Security Essentials (MajorGeeks)
 
 Install Windows Live Essentials 2012 (MajorGeeks)
@@ -86,7 +88,7 @@ Install Free Alarm Clock https://freealarmapp.com/
 Install Borderless Gaming through Steam.
 
 Install MSI Afterburner,
-and its actually useful part RTSS RivaTunerStatisticsServer.
+and its other part RTSS RivaTunerStatisticsServer.
 
 Install and run Cinebench.
 
