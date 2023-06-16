@@ -129,6 +129,7 @@ Stop most Windows 10 ads: https://www.howtogeek.com/269331/how-to-disable-all-of
 Enable bitlocker disk encryption.
 
 Be sure windows defender is ON.
+(AND, on Win10: also install Bitdefender Free)
 
 Keep the system up to date.
 
