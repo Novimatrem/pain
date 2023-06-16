@@ -42,6 +42,7 @@ Install Open-Shell - Classic Shell Reborn.
 Install AMD Software: PRO Edition
 
 Install Microsoft Security Essentials (MajorGeeks)
+(for Win10: Install Bitdefender Free)
 
 Install Windows Live Essentials 2012 (MajorGeeks)
 
