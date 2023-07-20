@@ -196,6 +196,8 @@ Install Windows Terminal from the MS Store
 
 Install and use RSSOwl
 
+Install Urban Terror (game)
+
 Install Tampermonkey in Firefox, and ensure you install this script into it: https://greasyfork.org/en/scripts/468381-no-iviv-hu-diaspora-for-zoey-this-is-enough-internet-for-me-today
 
 Install Shutter Encoder for its cut detection, makes it a lot easier to video-edit your recordings for privacy. (Alt+Tab detection)
