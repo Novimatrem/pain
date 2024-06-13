@@ -170,6 +170,8 @@ ensure that you have as close to 100% coverage as possible.
 
 #
 
+Install PokéMMO
+
 Install and make use of Chocolatey - https://chocolatey.org/
 
 Install Spelunky HD and Spelunky Classic from GOG 
