@@ -2,6 +2,8 @@
 ;
 ; AntiBurnIn
 
+; now with dual monitor fix
+
 #SingleInstance, force 
 #Persistent
 
@@ -17,10 +19,10 @@ Gui +AlwaysOnTop
 
 Gui -Caption
 
-Gui, Show, x0 y0 w%A_ScreenWidth% h%A_ScreenHeight%
-MouseMove, 9999,9999,, R  
+Gui, Show, x0 y0 w9999 h9999
+MouseMove, 99999,99999,, R  
 Loop {
-MouseMove, 9999,9999,, R  
+MouseMove, 99999,99999,, R  
 Run, %windir%\system32\PhotoScreensaver.scr /s
 Sleep 0 
 }
