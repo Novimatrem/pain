@@ -3,12 +3,14 @@
 ; AntiBurnIn
 
 ; now with dual monitor fix
+; and imac fix
+; Ensure you place a blank black image inside of Libraries\Pictures. EXCLUSIVELY, NOTHING ELSE IN THERE.
+; Press Esc, then move the mouse, to quit.
 
 #SingleInstance, force 
 #Persistent
 
 Menu, Tray, Tip, AntiBurnIn
-MsgBox Ensure you place a blank black image inside of Libraries\Pictures.    Press Esc, then move the mouse, to quit.
 
 WinMinimizeAll
 
