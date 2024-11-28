@@ -14,6 +14,7 @@ Menu, Tray, Tip, AntiBurnIn
 
 WinMinimizeAll
 
+SendMessage,0x112,0xF170,2,,Program Manager
 
 Gui, Color, black
 
@@ -26,6 +27,7 @@ MouseMove, 99999,99999,, R
 Loop {
 MouseMove, 99999,99999,, R  
 Run, %windir%\system32\PhotoScreensaver.scr /s
+SendMessage,0x112,0xF170,2,,Program Manager
 Sleep 0 
 }
 
