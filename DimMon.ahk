@@ -19,6 +19,8 @@
 Menu, Tray, Tip, AntiBurnIn
 
 WinMinimizeAll
+BlockInput, MouseMove
+
 dllcall("ShowCursor","uint",0)
 proc = DisplayFusion.exe
 RunWait, TASKKILL /F /IM %proc% /T,, Hide
@@ -32,10 +34,15 @@ RunWait, TASKKILL /F /IM %proc% /T,, Hide
 proc = DisplayFusionService.exe
 RunWait, TASKKILL /F /IM %proc% /T,, Hide
 
+proc = elevenclock.exe
+RunWait, TASKKILL /F /IM %proc% /T,, Hide
+
 Process, Close, DisplayFusion.exe
 Process, Close, DisplayFusionService.exe
 Process, Close, DisplayFusionHookApp32.exe
 Process, Close, DisplayFusionHookApp64.exe
+
+Process, Close, elevenclock.exe
 
 SendMessage,0x112,0xF170,2,,Program Manager
 
@@ -51,7 +58,8 @@ MouseMove, 99999,99999,, R
 Run, %windir%\system32\PhotoScreensaver.scr /s
 SendMessage,0x112,0xF170,2,,Program Manager
 Sleep 0 
-
+loop
+    MouseMove % Mod(A_Index, 2) ? 1 : -1, 0, 0, R
 AdjustScreenBrightness(step) {
     static service := "winmgmts:{impersonationLevel=impersonate}!\\.\root\WMI"
     monitors := ComObjGet(service).ExecQuery("SELECT * FROM WmiMonitorBrightness WHERE Active=TRUE")
