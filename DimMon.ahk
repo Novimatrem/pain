@@ -42,6 +42,11 @@ Process, Close, DisplayFusionService.exe
 Process, Close, DisplayFusionHookApp32.exe
 Process, Close, DisplayFusionHookApp64.exe
 
+proc = MagicBorderless.exe
+RunWait, TASKKILL /F /IM %proc% /T,, Hide
+
+Process, Close, MagicBorderless.exe
+
 Process, Close, elevenclock.exe
 
 SendMessage,0x112,0xF170,2,,Program Manager
