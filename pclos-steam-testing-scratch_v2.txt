@@ -1,0 +1,19 @@
+# v2
+
+su
+apt install -y flatpak
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+flatpak install flathub com.valvesoftware.Steam
+
+flatpak install flathub com.valvesoftware.Steam.Utility.MangoHud
+flatpak install flathub org.freedesktop.Platform.VulkanLayer.MangoHud
+flatpak override --user --env=MANGOHUD=1 com.valvesoftware.Steam
+
+killall steam
+pkill steam
+
+# add the following to launch options of the game you wish to cap
+MANGOHUD=1 MANGOHUD_CONFIG=fps_limit=5,no_display %command%
+
+
