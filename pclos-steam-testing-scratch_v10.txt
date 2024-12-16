@@ -1,0 +1,36 @@
+# v10
+# wip
+
+
+
+su
+apt install -y sudo
+apt install -y wget
+apt install -y dpkg
+apt install -y alien
+apt install -y easyrpmbuilder
+apt install -y ia32-libs
+apt install -y wine32.32bit
+apt install -y bubblewrap
+apt install -y lib64kpipewire5
+apt install -y lib64kpipewire5-devel
+apt install -y lib64pipewire-devel
+apt install -y lib64kpipewire-devel
+apt install -y php-bz2
+
+wget https://cdn.fastly.steamstatic.com/client/installer/steam.deb
+alien -r steam.deb
+rpm -ivh steam<TAB KEY>
+
+killall steam
+pkill steam
+
+nano /etc/apt/sources.list.d/steam-stable.list
+# COMMENT OUT THE LINES STARTING WITH DEB, USING THE # SYMBOL
+
+# launch with
+STEAM_RUNTIME=1 STEAM_RUNTIME_PREFER_HOST_LIBRARIES=1 steam
+
+# add the following to launch options of the game you wish to cap
+MANGOHUD=1 MANGOHUD_CONFIG=fps_limit=10,no_display mangohud %command%
+
