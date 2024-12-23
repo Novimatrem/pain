@@ -1,10 +1,21 @@
-# vice-jz-nosnap
+# vice-jz-nosnap v4
+
+# required packages: sudo
+
+# required tweaks: Your user must be in the sudoers file.
+
+# changelog:
+# v2 fixed sound by not running vice as root
+# v3 fixed drives by actually copying all required deps
+# v4 updated the top of this file to mention the required packages to install/stuff needed
+
+# Usage: sudo bash ./vice-jz-nosnap.sh
 
 # because pclinuxos doesn't do snaps.
 
 
 if [[ $EUID -ne 0 ]]; then
-    clear && echo "$0 is not running as root. Try using sudo."
+    clear && echo "$0 is not running with sudo. Try using sudo."
     echo ""
     exit 2
 fi
@@ -106,6 +117,9 @@ echo "Copying required C64 stuff into where vice will look for it..."
 sudo mkdir ./squashfs-root/current
 sudo cp -rf ./squashfs-root/lib64/ ./squashfs-root/current/
 sudo cp -rf ./squashfs-root/lib64/vice/C64 ./squashfs-root/bin/
+sudo cp -rf ./squashfs-root/lib64/vice/DRIVES ./squashfs-root/bin/
+sudo cp -rf ./squashfs-root/lib64/vice/* ./squashfs-root/bin/
+
 echo "Executing vice x64..."
 cd squashfs-root
 cd bin
@@ -127,7 +141,10 @@ clear
 clear
 echo "NOW EXITING MY SCRIPT AND RUNNING THE VICE EMULATOR, ENJOY!"
 echo ""
-strace ./x64 2>&1 | grep kernal
+clear
+echo "Run the following inside of a fresh non-root Terminal to run VICE x64:"
+echo ""
+readlink -f ./x64
 
 
 # done
