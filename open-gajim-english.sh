@@ -1,0 +1,1 @@
+unset LANGUAGE; LC_MESSAGES=C gajim
