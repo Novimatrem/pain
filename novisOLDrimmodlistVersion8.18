@@ -1,4 +1,4 @@
-novi's OLDrim modlist Version 8.17
+novi's OLDrim modlist Version 8.18
 Requires all DLC, SKSE, SkyUI and RaceMenu
 
 From the Skyrim Steam Workshop: 
@@ -77,6 +77,7 @@ Safety Load
 SKSE ini pre-download for lazy users
 Skyrim - Enhanced Camera
 Skyrim Font--Ubuntu
+Shadow Striping Fix Indoor and Outdoor
 Skyrim Weather Beautification
 SkyUI
 Slightly Extended Candlelight Range
