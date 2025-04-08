@@ -1,0 +1,32 @@
+Novi's Skyrim SE modlist Version 4
+
+
+From Bethesda.net "MODS" menu:
+
+Unofficial Skyrim Special Edition Patch [USSEP]
+A Quality World Map - Vivid with Stone Roads
+Alternate Start - Live Another Life
+Realistic Water Two (PC)
+Realistic Ragdolls and Force
+Run For Your Lives
+A Quality World Map - Clear Map Skies
+Joy of Perspective
+no more blocky faces PC
+Modern Brawl Bug Fix [PC]
+Skyland - A Landscape Texture Overhaul for PC
+
+=>
+
+From Skyrim Nexus mods:
+
+Better MessageBox Controls
+Better Dialogue Controls
+Enhanced CandleLight and MageLight
+Flora Respawn Fix
+Immersively Undress - Vanilla Friendly
+No Bethesda intro
+No More Night Eye Blur
+Achievements Mods Enabler
+xSHADOWMANx's Dll Loader
+The Choice is Yours
+
