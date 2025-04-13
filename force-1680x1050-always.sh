@@ -1,4 +1,4 @@
-# force-1680x1050-always.sh
+# force-1680x1050-always-v2.sh
 
 # this entire script runs perpetually and is as such a loop
 while true;
@@ -26,6 +26,10 @@ randvar="$(xrandr -d :0 | grep 1680 | sed -e 's/\s+/ /g' | tr -s ' ' | sed 's/^ 
 
 # replace the spaces with underscores
 randvarnospace=$(echo $randvar | tr -s ' ' | tr ' ' '_')
+
+# fix bug in steam notifications
+killall steam
+pkill steam
 
 # print and then set it
 echo $randvarnospace
